@@ -6,3 +6,5 @@ elif x < 0:
     print('x is negative')
 else:
     print("x is zero")
+
+print('hello')
